@@ -1,0 +1,1 @@
+so we are planning in making this our thesis project. however I have a question: how should we visualize the gathered data? and how should it be structured in firebase firestore?

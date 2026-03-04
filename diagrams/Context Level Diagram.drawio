@@ -1,0 +1,40 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36 OPR/127.0.0.0" version="29.6.0">
+  <diagram name="Page-1" id="R9de3CjG4jAggUXZqXIG">
+    <mxGraphModel dx="674" dy="483" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="wMDEPupydVdUM9bkH69i-6" edge="1" parent="1" source="wMDEPupydVdUM9bkH69i-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="wMDEPupydVdUM9bkH69i-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="wMDEPupydVdUM9bkH69i-8" edge="1" parent="1" source="wMDEPupydVdUM9bkH69i-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="wMDEPupydVdUM9bkH69i-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="wMDEPupydVdUM9bkH69i-1" parent="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" value="The System" vertex="1">
+          <mxGeometry height="100" width="100" x="310" y="210" as="geometry" />
+        </mxCell>
+        <mxCell id="wMDEPupydVdUM9bkH69i-3" edge="1" parent="1" source="wMDEPupydVdUM9bkH69i-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="wMDEPupydVdUM9bkH69i-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="wMDEPupydVdUM9bkH69i-2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Tipping Rain Gauge" vertex="1">
+          <mxGeometry height="60" width="120" x="60" y="230" as="geometry" />
+        </mxCell>
+        <mxCell id="wMDEPupydVdUM9bkH69i-4" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Rainfall Intensity Data" vertex="1">
+          <mxGeometry height="30" width="110" x="190" y="220" as="geometry" />
+        </mxCell>
+        <mxCell id="wMDEPupydVdUM9bkH69i-5" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="University Administration / Facilities Management" vertex="1">
+          <mxGeometry height="70" width="130" x="540" y="225" as="geometry" />
+        </mxCell>
+        <mxCell id="wMDEPupydVdUM9bkH69i-7" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="University Administration / Facilities Management" vertex="1">
+          <mxGeometry height="70" width="130" x="295" y="380" as="geometry" />
+        </mxCell>
+        <mxCell id="wMDEPupydVdUM9bkH69i-9" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Predictive Flood-Risk Assessments &amp;amp; Planning Support" vertex="1">
+          <mxGeometry height="40" width="110" x="420" y="210" as="geometry" />
+        </mxCell>
+        <mxCell id="wMDEPupydVdUM9bkH69i-10" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="3D Visualizations of Flood-Prone Zones" vertex="1">
+          <mxGeometry height="40" width="110" x="370" y="320" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
